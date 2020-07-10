@@ -1,0 +1,80 @@
+// Here you can add other styles
+// Here you can add other style
+
+
+.error-msg {
+    color: red;
+    width: 100%;
+    text-align: left;
+    font-style: italic;
+    font-weight: 600;
+    font-size: 12px;
+}
+.iconSet {
+    float: left;
+    padding: 2px 5px;
+    cursor: pointer;
+    position: relative;
+}
+.react-confirm-alert-body h1 {
+    font-size: 24px;
+}
+.react-datepicker-wrapper {
+  
+    width: 100%;
+}
+ .fc-content {
+    color: #fff;
+    font-size: 10px;
+}
+.expoertBtn{
+    float: right;
+    padding: 4px 10px;
+    margin-left: 5px;
+    border: 1px solid #007bff;
+}
+form.filterPoss.form-inline {
+    float: right;
+}
+select.filterBox.form-control {
+    height: 32px !important;
+    padding: 5px;
+}
+
+.filterBox select,.filterBox input {
+    height: calc(1.8125rem + 2px) !important;
+    padding: 5px 10px !important;
+    font-size: 13px !important;
+}
+.col-md-25 {
+    margin-left: 8px;
+}
+
+.custom_select_box select {
+    padding: 5px !important;
+    border-color: #f8f9fa14 !important;
+}
+a.btnText {
+    color: #fff;
+}
+
+.gallery-container header#header {
+    background: #000;
+}
+.gallery-container {
+    position: absolute;
+    width: 100%;
+    
+}
+.mar-top{
+    margin-top: 100px;
+    padding: 10px 120px;
+}
+h2.title-head {
+    text-align: center;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+.Recent-Users .nav{
+    padding-left: 10px;
+}
